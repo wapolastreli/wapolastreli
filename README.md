@@ -2,13 +2,6 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou apaixonado por desenvolvimento web e estou sempre explorando novas tecnologias. Atualmente, meu foco está em aprimorar minhas habilidades em HTML, CSS, JavaScript e React.
 
-## Minhas Skills
-
-![HTML5](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
-![CSS3](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
-![JavaScript](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png)
-![React](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png)
-
 
 ## 📚 Aprendendo Atualmente
 
